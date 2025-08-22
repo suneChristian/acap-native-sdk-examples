@@ -49,3 +49,5 @@ RUN python training/train.py \
     python convert_model.py \
       -i models/trained_model.pb \
       -o training/models/converted_model.tflite
+
+      #test
